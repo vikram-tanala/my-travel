@@ -1,0 +1,8 @@
+@import "tailwindcss";
+:root {
+  --brand-color-canvas-default: #f8fafc;
+}
+
+.dark {
+  --brand-color-canvas-default: #020617;
+}
